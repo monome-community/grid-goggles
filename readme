@@ -17,7 +17,6 @@
 || 
 || License: GNU GPL 2.0 (http://creativecommons.org/licenses/GPL/2.0/)
 
-/*
 
 altitudesickness TODOs:
   -ADD ControlP5 for OSC port
@@ -29,6 +28,10 @@ thealphanerd TODOs:
   -create csv to store list of different visualizations
   -make selection list modular to adapt to any number of items
   -create input for switching visuals
+  -enable full screen
+  -placement on second monitor
+  -fix 256 placement
+  -add gui element to select monome size
 
 WISHLIST:
   -Lots more visualizations!
@@ -43,5 +46,3 @@ SOME IDEAS FOR VISUALS TO ADAPT/ADD
   -particles.  too intensive? see "bouncy boxes": http://www.openprocessing.org/visuals/?visualID=6535
   -flocking
   -wavy?  could be cool? http://www.openprocessing.org/visuals/?visualID=16256
-
-*/
