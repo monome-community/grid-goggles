@@ -1,0 +1,18 @@
+|| Grid Goggles 0.01
+|| by Raymond Weitekamp
+|| Date:  12.4.11
+|| Summary: A utility for synchronous visualization of time-dependent matrices.  Like a monome.
+||         In development...pre-alpha.
+||
+|| Details: Currently for monome only.  Receives "/key" and "/led" messages on port 3030.  
+||          Use AlphaNerd's SerialOSnoopy or Griddle to easily copy your OSC messages:
+||          https://github.com/TheAlphaNerd/SerialOSnoopy--Monome
+||          http://docs.monome.org/doku.php?id=app:griddle
+||
+||
+|| Instructions for adding: There are specific sections of the code for adding new visualizations.
+||       These are tagged with the symbol '@@@'.  
+||
+|| Note: Currently developed for Processing 1.5.1, and rendered with the GLGraphics library by CodeAntiCode
+|| 
+|| License: GNU GPL 2.0 (http://creativecommons.org/licenses/GPL/2.0/)
