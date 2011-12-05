@@ -1,0 +1,6 @@
+<filter name="Angular fish-eye projection">
+    <description>Distors the input texture using an angular fish-eye mapping</description>
+    <fragment>FishEye.glsl</fragment>
+    <textures input="1" output="1"></textures>
+    <parameter type="float" name="aperture" label="Angular aperture of the lenses">3.141592</parameter>
+</filter>
