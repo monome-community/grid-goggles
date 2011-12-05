@@ -16,3 +16,32 @@
 || Note: Currently developed for Processing 1.5.1, and rendered with the GLGraphics library by CodeAntiCode
 || 
 || License: GNU GPL 2.0 (http://creativecommons.org/licenses/GPL/2.0/)
+
+/*
+
+altitudesickness TODOs:
+  -ADD ControlP5 for OSC port
+  -ADD ControlP5 for specific visualization parameters
+  -README
+
+thealphanerd TODOs:
+  -breakout examples as separate sketches
+  -create csv to store list of different visualizations
+  -make selection list modular to adapt to any number of items
+  -create input for switching visuals
+
+WISHLIST:
+  -Lots more visualizations!
+  -color picker
+  -transitions between visuals
+  -256 testing
+    -test re-sizing
+  -cross-platform, streamlined fullscreen mode
+
+SOME IDEAS FOR VISUALS TO ADAPT/ADD 
+  -space invaders!
+  -particles.  too intensive? see "bouncy boxes": http://www.openprocessing.org/visuals/?visualID=6535
+  -flocking
+  -wavy?  could be cool? http://www.openprocessing.org/visuals/?visualID=16256
+
+*/
